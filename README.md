@@ -26,7 +26,7 @@ Your challenge today will be to work with their array of ice cream flavors to ac
 
 ### Task 2: MVP
 
-Find the file `index.js` and complete the tasks until your returns look like the expected returns. Do not use any of the forbidden methods!
+Find the file `index.js` and complete the tasks until your returns look like the expected returns. Do not use any of the ?_forbidden methods!_?
 
 ### Task 3: Stretch
 
